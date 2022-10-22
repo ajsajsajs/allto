@@ -1,6 +1,6 @@
 ---
 - hosts: localhost
-  user: ansible
+  user: root
   become: yes
   connection: ssh
 
